@@ -13,6 +13,6 @@
 
 | Дата  | Тема семинара | Материалы |
 | ------------- | ------------- | ------------- |
-| *17.01.2018*  | Вводный семинар. Обсуждение основных понятий анализа данных. Python для анализа данных. NumPy. | [Ноутбук по Numpy](https://github.com/iad-24/seminars/blob/master/materials/ipython_notebook_numpy.ipynb) [Презентация]()|
+| *17.01.2018*  | Вводный семинар. Обсуждение основных понятий анализа данных. Python для анализа данных. NumPy. | [Ноутбук по Numpy](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/ipython_notebook_numpy.ipynb) [Презентация](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Семинар1.pdf)|
 
 
