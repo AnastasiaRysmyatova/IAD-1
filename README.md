@@ -15,4 +15,8 @@
 | ------------- | ------------- | ------------- |
 | *17.01.2018*  | Вводный семинар. Обсуждение основных понятий анализа данных. Python для анализа данных. NumPy. | [Ноутбук по Numpy](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/ipython_notebook_numpy.ipynb) [Презентация](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Семинар1.pdf)|
 
+## Практические задания
+
+
+
 
