@@ -17,7 +17,7 @@
 | *24.01.2018*  | Python для анализа данных. Pandas. Matplotlib. | [Ноутбук по Pandas + Matplotlib](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/ipython_notebook_pandas_matplotlib.ipynb)|
 
 ## Практические задания
-
+ [Задание 1](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW1_Username.ipynb).  NumPy, Pandas, Matplotlib. Срок сдачи: 12 февраля 23:59  
 
 
 
