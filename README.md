@@ -20,7 +20,7 @@
 | *31.01.2018*  | Python для анализа данных. Scikit-learn.| [Ноутбук по Scikit-learn](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Scikit-learn.ipynb)|
 
 ## Практические задания
- [Задание 1](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW1_Username.ipynb).  NumPy, Pandas, Matplotlib. Срок сдачи: 12 февраля 23:59  
+ [Задание 1](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW1_Username.ipynb).  NumPy, Pandas, Matplotlib. Срок сдачи: 13 февраля 23:59  
 
 
 
