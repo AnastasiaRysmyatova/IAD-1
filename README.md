@@ -11,6 +11,8 @@
 
 Почта: hse.minor.dm+1@gmail.com
 
+Таблица с оценками: [ИАД-1](https://docs.google.com/spreadsheets/d/1n6-_nCiIQYQQwDbqJKtDoKXNRlbEk3798nKTkOqc6YE/edit?usp=sharing) 
+
 ## Расписание семинаров
 
 | Дата  | Тема семинара | Материалы |
