@@ -15,10 +15,11 @@
 
 | Дата  | Тема семинара | Материалы |
 | ------------- | ------------- | ------------- |
-| *17.01.2018*  | Вводный семинар. Обсуждение основных понятий анализа данных. Python для анализа данных. NumPy. | [Ноутбук по Numpy](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/ipython_notebook_numpy.ipynb) [Презентация](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Семинар1.pdf)|
+| *17.01.2018*  | Вводный семинар. Обсуждение основных понятий анализа данных. Python для анализа данных. NumPy. | [Ноутбук по Numpy](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/ipython_notebook_numpy.ipynb)<br/> [Презентация](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Семинар1.pdf)|
 | *24.01.2018*  | Python для анализа данных. Pandas. Matplotlib. | [Ноутбук по Pandas + Matplotlib](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/ipython_notebook_pandas_matplotlib.ipynb)|
 | *31.01.2018*  | Python для анализа данных. Scikit-learn.| [Ноутбук по Scikit-learn](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Scikit-learn.ipynb)|
-| *07.02.2018*  | Метрические алгоритмы. Метод ближайших соседей.| [Ноутбук по KNN](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/KNN_ipython_notebook.ipynb) [Визуализация KNN  ](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/KNN.ipynb) <br/> [ Пример задач ](http://nbviewer.jupyter.org/github/shestakoff/minor_da_2017/blob/master/colloc_knn.ipynb)|
+| *07.02.2018*  | Метрические алгоритмы. Метод ближайших соседей.| [Ноутбук по KNN](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/KNN_ipython_notebook.ipynb)<br/> [Визуализация KNN  ](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/KNN.ipynb) <br/> [ Пример задач ](http://nbviewer.jupyter.org/github/shestakoff/minor_da_2017/blob/master/colloc_knn.ipynb)|
+| *14.02.2018*  | Градиентный спуск. Линейная регрессия.| [Визуализация линейной регрессии](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Seminar5_LR.ipynb) [Стартовый ноутбук градиентный спуск](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Seminar5_3d_starter.ipynb) <br/> [ Выполненный ноутбук градиентный спуск ](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Seminar5_3d_solution.ipynb)|
 
 ## Практические задания
  [Задание 1](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW1_Username.ipynb).  NumPy, Pandas, Matplotlib. Срок сдачи: 13 февраля 23:59  
