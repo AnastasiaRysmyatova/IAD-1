@@ -25,7 +25,8 @@
 | *21.02.2018*  | Линейная регрессия. Регуляризация.| [Презентация](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/linear_regression_slides.pdf) <br/> [ Пример задач ](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_linear.pdf)|
 
 ## Практические задания
- [Задание 1](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW1_Username.ipynb).  NumPy, Pandas, Matplotlib. Срок сдачи: 13 февраля 23:59  
+ [Задание 1](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW1_Username.ipynb).  NumPy, Pandas, Matplotlib. Срок сдачи: 13 февраля 23:59 
+ [Задание 2](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW2_Username.ipynb).  Линейная регрессия, KNN. Срок сдачи: 13 марта 23:59 
 
 
 
