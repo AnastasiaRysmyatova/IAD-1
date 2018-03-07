@@ -24,6 +24,8 @@
 | *14.02.2018*  | Градиентный спуск. Линейная регрессия.| [Линейная регрессия](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Seminar5_LR.ipynb) <br/> [Стартовый ноутбук градиентный спуск](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Seminar5-Starter.ipynb) <br/> [ Выполненный ноутбук градиентный спуск ](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/Seminar5_3d_solution.ipynb)<br/> <br/> [Презентация](https://www.dropbox.com/s/lo10gizj4eyv26w/seminar_5_slid.pdf?dl=0)|
 | *21.02.2018*  | Линейная регрессия. Регуляризация.| [Презентация](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/linear_regression_slides.pdf) <br/> [ Пример задач ](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_linear.pdf)|
 | *28.02.2018*  | Линейная классификация. Логистическая регрессия.|[Ноутбук](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/logit_regression_sem.ipynb)<br/> [ Пример задач ](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_linear.pdf)|
+| *07.03.2018*  | Метрики качества.|[Презентация](https://github.com/iad34/seminars/blob/master/materials/sem7.pdf)<br/> [ Пример задач ](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_metrics.ipynb)|
+| *07.03.2018*  | Консультация. Полиномиальные признаки. Ridge и Lasso регрессии. |[Ноутбук](http://nbviewer.jupyter.org/urls/dl.dropbox.com/s/t8fum2v9zuaduwz/sem_6.ipynb)<br/> |
 
 ## Практические задания
  [Задание 1](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW1_Username.ipynb).  NumPy, Pandas, Matplotlib. Срок сдачи: 13 февраля 23:59 
