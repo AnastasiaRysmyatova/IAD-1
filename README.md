@@ -26,6 +26,7 @@
 | *28.02.2018*  | Линейная классификация. Логистическая регрессия.|[Ноутбук](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/logit_regression_sem.ipynb)<br/> [ Пример задач ](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_linear.pdf)|
 | *07.03.2018*  | Метрики качества.|[Презентация](https://github.com/iad34/seminars/blob/master/materials/sem7.pdf)<br/> [ Пример задач ](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_metrics.ipynb)|
 | *07.03.2018*  | Консультация. Полиномиальные признаки. Ridge и Lasso регрессии. |[Ноутбук](http://nbviewer.jupyter.org/urls/dl.dropbox.com/s/t8fum2v9zuaduwz/sem_6.ipynb)<br/> |
+| *14.03.2018*  | Автоматическая обработка текстов. |[Ноутбук](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/tfidf.ipynb)<br/> [Ноутбук kaggle](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/seminar%20kaggle%20toxic%20(1).ipynb) |
 
 ## Практические задания
  [Задание 1](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW1_Username.ipynb).  NumPy, Pandas, Matplotlib. Срок сдачи: 13 февраля 23:59 
