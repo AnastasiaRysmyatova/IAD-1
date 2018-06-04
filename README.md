@@ -27,11 +27,19 @@
 | *07.03.2018*  | Метрики качества.|[Презентация](https://github.com/iad34/seminars/blob/master/materials/sem7.pdf)<br/> [ Пример задач ](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_metrics.ipynb)|
 | *07.03.2018*  | Консультация. Полиномиальные признаки. Ridge и Lasso регрессии. |[Ноутбук](http://nbviewer.jupyter.org/urls/dl.dropbox.com/s/t8fum2v9zuaduwz/sem_6.ipynb)<br/> |
 | *14.03.2018*  | Автоматическая обработка текстов. |[Ноутбук](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/tfidf.ipynb)<br/> [Ноутбук kaggle](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/seminar%20kaggle%20toxic%20(1).ipynb) |
+| *21.03.2018*  | Решающие деревья. Критерии информативности.  |
+| *18.04.2018*  | Случайные леса.  | 
+| *25.04.2018*  | PCA.  |
+| *23.05.2018*  | Кластеризация. K-Means, DBSCAN, графовые методы.  | 
+| *23.05.2018*  | Рекомендательные системы.  |
+| *30.05.2018*  | Визуализация данных.  ||
 
 ## Практические задания
  [Задание 1](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW1_Username.ipynb).  NumPy, Pandas, Matplotlib. Срок сдачи: 13 февраля 23:59 
  
  [Задание 2](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW2_Username.ipynb).  Линейная регрессия, KNN. Срок сдачи: 13 марта 23:59 
+ 
+ [Задание 3](https://github.com/esokolov/ml-minor-hse/blob/master/homeworks-2018/practice-homework-03.ipynb).  Логистическая регрессия, случайный лес. Срок сдачи: 18 мая 23:59
 
 
 
