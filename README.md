@@ -32,7 +32,7 @@
 | *25.04.2018*  | PCA.  |
 | *23.05.2018*  | Кластеризация. K-Means, DBSCAN, графовые методы.  | 
 | *23.05.2018*  | Рекомендательные системы.  |
-| *30.05.2018*  | Визуализация данных.  ||
+| *30.05.2018*  | Визуализация данных.  |[Ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem11-visualization.ipynb)<br/>|
 
 ## Практические задания
  [Задание 1](https://github.com/AnastasiaRysmyatova/IAD-1/blob/master/materials/HW1_Username.ipynb).  NumPy, Pandas, Matplotlib. Срок сдачи: 13 февраля 23:59 
